@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Nerdbird Farm"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Just a bunch of Nerdbirds 🦆🐓🐔🐤
